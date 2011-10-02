@@ -1,0 +1,42 @@
+
+This is the Triage operating system. The project resources are:
+
+   * Mailing list: http://groups.google.com/group/triage-os
+   * Blog: http://8b435bfe.blogspot.com/
+   * Precompiled docs:  https://github.com/8b435bfe/Triage-docs
+   * Public repository: https://github.com/8b435bfe/Triage
+
+Any version of Triage downloaded from an URL different than the one
+above should not be trusted by default. Be sure to review the source
+and look for differences with the official source code.
+
+Please send all bug reports, patches, and so forth to the mailing list.
+When sending files, use free file formats such as ODT, SVG and PNG.
+All proprietary file formats (RAR, DOC, XLS, PPT ...) will be ignored.
+Always send source code; do not send precompiled binaries. Finally,
+avoid the PDF file format and prefer the rST or ODT 1.2 file formats.
+
+Triage is licensed under the GNU General Public License, version 3 as
+published by the Free Software Foundation. A copy of this license is
+included in the repository: see "licenses/gpl-3.0-standalone.html".
+
+All files in this repository that are not source code (including images,
+videos, sounds and documents) are licensed under the Creative Commons
+Attribution-ShareAlike 3.0 Unported License. A copy of this license is
+included in the repository: see "licenses/CC-BY-SA-3.0.html".
+
+By sending a contribution to the mailing list, you therefore agree that
+it will be licensed either under the version 3 of the GNU General Public
+License or under Creative Commons Attribution-ShareAlike 3.0 Unported
+License -- depending on whether it qualifies as source code or not.
+Text files that can be compiled to executable machine code do qualify.
+
+The copyright is shared amongst contributors, who are to be identified
+in all git commits. For example, if contributor A provides a new file
+"foo", he owns the copyright on that original file. Then if contributor B
+provides a patch that changes "foo", he owns the copyright on those
+changes.
+
+You are welcome to fork the Triage project. However, when doing so please
+use a non ambiguous name for the new project. For example, "Triage 2.0"
+would be confusing for the users, whereas "Triphase" would not be ambiguous.
